@@ -1,8 +1,8 @@
 import {Context} from "near-sdk-as";
 
 //near view
-export function hello_word(): string {
-	return "Hello word";
+export function hello_world(): string {
+	return "Hello world";
 }
 
 //near call 
