@@ -1,6 +1,5 @@
 Hola mundo en near con AssemblyScript
 ==================
-[Video Demo]
 
 Introducción a holamundo en near (assemblyScript)
 ==================
@@ -109,4 +108,3 @@ Las pruebas son parte del desarrollo, luego, para ejecutar las pruebas en el con
   [nvm]: https://github.com/nvm-sh/nvm
   [UX/UI]: https://www.figma.com/proto/GqP5EF5zRZRvAv3HoaSsuN/uniwap?node-id=39%3A2300&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=39%3A2300&hide-ui=1
   [UX/UI]: https://www.figma.com/proto/0dZLC0WI1eVsfjeKu3T8J8/Garant%C3%ADzame?node-id=2%3A8&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=2%3A8
-  [Video Demo]: https://www.loom.com/share/c3b906012b7e4c32a2250929caab64ec?sharedAppSource=personal_library
