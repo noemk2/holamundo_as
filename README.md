@@ -81,7 +81,7 @@ near view <your deployed contract> hello_world --account-id <username>.testnet
 ✏️ Comando  call : request dinamicop
 --------------------------------------------
 
-Permite imprimir "Hello " + <username>.testnet  
+Permite imprimir "Hello " + <username> .testnet  
 
 Para Linux :
 ```bash
