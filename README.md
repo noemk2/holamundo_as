@@ -60,6 +60,12 @@ Cree el código de contrato inteligente e implemente el servidor de desarrollo l
 ```bash
 yarn deploy:dev
 ```
+
+Cree la variable local $CONTRACT_NAME (permite guardar tu contrato temporal en una variable facil de recordar)
+```bash
+source ./neardev/dev-account.env
+```
+
 Consulte` package.json` para obtener una lista completa de `scripts` que puede ejecutar con` yarn`). Este script le devuelve un contrato inteligente provisional
 implementado (guárdelo para
 usarlo más tarde)
@@ -77,7 +83,7 @@ Permite imprimir "Hello world"
 
 Para Linux:
 ```bash
-near view <your deployed contract> hello_world --account-id <username>.testnet
+near view $CONTRACT_NAME hello_world --account-id <username>.testnet
 ```
 
 ✏️ Comando  call : request dinamico
@@ -87,7 +93,7 @@ Permite imprimir "Hello " + <username>.testnet
 
 Para Linux :
 ```bash
-near call <your deployed contract> hello --account-id <username>.testnet
+near call $CONTRACT_NAME hello --account-id <username>.testnet
 ```
 
 
