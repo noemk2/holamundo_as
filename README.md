@@ -68,6 +68,8 @@ usarlo más tarde)
 ¡Felicitaciones, ahora tendrá un entorno de desarrollo local ejecutándose en NEAR TestNet!
 
 
+
+
 ✏️ Comando  view : request estatico
 -----------------------------------------------
 
@@ -78,10 +80,10 @@ Para Linux:
 near view <your deployed contract> hello_world --account-id <username>.testnet
 ```
 
-✏️ Comando  call : request dinamicop
+✏️ Comando  call : request dinamico
 --------------------------------------------
 
-Permite imprimir "Hello " + <username> .testnet  
+Permite imprimir "Hello " + <username>.testnet  
 
 Para Linux :
 ```bash
