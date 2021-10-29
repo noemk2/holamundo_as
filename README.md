@@ -89,7 +89,7 @@ near view $CONTRACT_NAME hello_world --account-id <username>.testnet
 ✏️ Comando  call : request dinamico
 --------------------------------------------
 
-Permite imprimir "Hello " + <username>.testnet  
+Permite imprimir "Hello " + username.testnet  
 
 Para Linux :
 ```bash
